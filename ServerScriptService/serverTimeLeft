@@ -4,7 +4,6 @@
 active = true
 
 game.Players.PlayerAdded:connect(function(fuuu) --There was so much annoyance making this function, so I called the argument FUUUUU
-	print("Works!")
 	local userData = Instance.new("NumberValue")
 	userData.Parent = game.ReplicatedStorage.userData
 	userData.Name = tostring(game.Players.LocalPlayer)
