@@ -1,0 +1,21 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="NumberValue" referent="RBXE31D9132322F40C4A24E4DAC2A0E97B8">
+		<Properties>
+			<string name="Name">timeLeft</string>
+			<double name="Value">600</double>
+		</Properties>
+	</Item>
+	<Item class="NumberValue" referent="RBX98E47C97149E444B9CDBC49D758663BD">
+		<Properties>
+			<string name="Name">wardenClaimed</string>
+			<double name="Value">0</double>
+		</Properties>
+	</Item>
+	<Item class="Folder" referent="RBX540DE3CEA0AD4F8C8864E3A190041EB3">
+		<Properties>
+			<string name="Name">userData</string>
+		</Properties>
+	</Item>
+</roblox>
