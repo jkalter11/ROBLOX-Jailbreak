@@ -1,0 +1,2 @@
+To change someone to this team, type (in a LocalScript, Server Scripts you need to use a function and some other stuff fot this) this:
+game.Players.LocalPlayer.TeamColor = BrickColor.new("Really red")
