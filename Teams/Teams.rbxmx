@@ -1,0 +1,32 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Team" referent="RBX246CF2825E874985954FA935E04853D1">
+		<Properties>
+			<bool name="AutoAssignable">false</bool>
+			<string name="Name">Dead</string>
+			<int name="TeamColor">1003</int>
+		</Properties>
+	</Item>
+	<Item class="Team" referent="RBX7F43C2A039514BF98EC27A0ACBDAE884">
+		<Properties>
+			<bool name="AutoAssignable">true</bool>
+			<string name="Name">Guards</string>
+			<int name="TeamColor">1010</int>
+		</Properties>
+	</Item>
+	<Item class="Team" referent="RBX07B03BFC5775472EB4740E1895BC6FA7">
+		<Properties>
+			<bool name="AutoAssignable">true</bool>
+			<string name="Name">Prisoners</string>
+			<int name="TeamColor">1004</int>
+		</Properties>
+	</Item>
+	<Item class="Team" referent="RBXEAEEE65E93F44ABBBB03FE014DCDBD65">
+		<Properties>
+			<bool name="AutoAssignable">false</bool>
+			<string name="Name">Warden</string>
+			<int name="TeamColor">307</int>
+		</Properties>
+	</Item>
+</roblox>
