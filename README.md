@@ -53,4 +53,4 @@ You can see a to-do list at the issues section of the GitHub page.
 
 Thank you so much for using this software! ^^
 
---imaginaryUberlyuber (just call me Uberluber)
+--imaginaryUberlyuber (just call me Uberlyuber)
