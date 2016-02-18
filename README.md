@@ -10,6 +10,8 @@ Installation is quite simple - just do the following:
 
 3.) Copy and paste all the files to the explorer, however make sure everything in the folders match up with everything in the download - i.e put everything in the StarterGui folder in the StarterGui folder in the Explorer (I'll make an image tutorial explaining this later)
 
+4.) If you wish to change how long each round lasts, then go to ReplicatedStorage -> timeLeft, go to it's properties menu and change it's value. By default it is 600, which means 600 seconds, 10 minutes.
+
 4.) Profit!
 
 See? Simple!
@@ -42,7 +44,7 @@ Unfortunately, ROBLOX does not allow VOIP, so all communication will have to be 
 Keyboard commands!
 
 F2 - Switch teams
-F4 - For guards, this pulls up a menu to claim warden if no one is already warden. For prisoners, this pulls up an LR menu if they are the last remaining prisoner (NEITHER FUNCTION READY AT THIS TIME)
+F4 - For guards, this pulls up a menu to claim warden if no one is already warden. For prisoners, this pulls up an LR menu if they are the last remaining prisoner (LR MENU NOT READY AT THIS TIME)
 
 #Chanelog:
 
