@@ -2,6 +2,20 @@
 	second for the actual server time. This is the server time - time until the next round.
 --]]
 active = true
+
+game.Players.PlayerAdded:connect(function(fuuu) --There was so much annoyance making this function, so I called the argument FUUUUU
+	print("Works!")
+	local userData = Instance.new("NumberValue")
+	userData.Parent = game.ReplicatedStorage.userData
+	userData.Name = tostring(game.Players.LocalPlayer)
+	
+	if fuuu.TeamColor.Name == "Really red" then
+		userData.Value = 0
+	elseif fuuu.TeamColor.Name == "Really blue" or fuuu.TeamColor.Name == "Lapis" then
+		userData.Value = 1
+	end
+end)
+
 while active do
 	game.ReplicatedStorage.timeLeft.Value = game.ReplicatedStorage.timeLeft.Value - 1
 	if game.ReplicatedStorage.timeLeft.Value == 0 then
